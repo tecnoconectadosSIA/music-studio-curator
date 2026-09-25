@@ -139,3 +139,17 @@ python curate_music.py --dir "E:\Musica" --fix-id3 --quarantine-dupes
 ## 📄 Licenza
 
 Rilasciato sotto licenza open source **MIT**. Adottabile liberamente per emittenti radiofoniche comunitarie, stazioni commerciali, studi di post-produzione e collezioni musicali per DJ e collezionisti.
+
+---
+
+## ⚖️ Note Legali ed Esclusione di Responsabilità
+
+### Esclusione di Responsabilità (Disclaimer Legale)
+Questo software è stato sviluppato a fini di gestione tecnica, catalogazione e preparazione dell'archivio audio per emittenti radiofoniche, broadcaster, sound engineer e collezionisti in possesso di copie regolarmente licenziate o acquisite. L'autore e i collaboratori **non incoraggiano, non promuovono e non facilitano in alcun modo la violazione dei diritti d'autore o la pirateria informatica**.
+* Il software **non ospita, non ritrasmette in streaming e non distribuisce materiale coperto da copyright**.
+* È responsabilità esclusiva dell'utente verificare la conformità con la normativa vigente in materia di proprietà intellettuale (Direttiva UE 2019/790, Legge sul Diritto d'Autore L. 633/1941, SIAE, SCF, SGAE, ASCAP, BMI) e con le condizioni d'uso delle piattaforme collegate.
+
+### Licenze di Terze Parti e Crediti Open Source
+* **Chromaprint (pcalc.exe)**: Copyright © Lukáš Lalinský. Distribuito secondo i termini della licenza **GNU Lesser General Public License (LGPL) v2.1**. Il codice sorgente integrale è reperibile su [github.com/acoustid/chromaprint](https://github.com/acoustid/chromaprint).
+* **AcoustID & MusicBrainz**: Si ringraziano la MetaBrainz Foundation e AcoustID.org per il supporto alla banca dati aperta di impronte acustiche.
+* **Mutagen**: Copyright © Joe Wreschnig e collaboratori (GPL v2+).

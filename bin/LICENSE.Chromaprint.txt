@@ -1,0 +1,18 @@
+Chromaprint / fpcalc License Notice
+====================================
+
+The binary `fpcalc` included in this directory is part of the Chromaprint project,
+developed and copyrighted by Lukáš Lalinský and contributors.
+
+Website: https://acoustid.org/chromaprint
+Source code repository: https://github.com/acoustid/chromaprint
+
+Chromaprint and fpcalc are licensed under the GNU Lesser General Public License (LGPL)
+version 2.1 or later.
+
+In accordance with the LGPL 2.1 license:
+1. You may freely use, redistribute, and link against the Chromaprint library.
+2. You can access and modify the complete source code of Chromaprint at:
+   https://github.com/acoustid/chromaprint/releases
+3. The rest of this repository (Music Studio Curator) is licensed under the MIT License
+   as an independent, aggregate work interacting with fpcalc via standard command-line interfaces.
